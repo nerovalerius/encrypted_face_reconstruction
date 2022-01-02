@@ -11,7 +11,7 @@ Please read the full Presentation: [LINK](https://github.com/nerovalerius/encryp
 
 ### Our results:
 
-![alt text](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/results_psp.jpg)
-![alt text](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/images_psp.jpg)
-![alt text](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/results_gfp.jpg
-![alt text](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/images_gfp.jpg
+![results psp](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/results_psp.jpg)
+![images psp](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/images_psp.jpg)
+![results gfp](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/results_gfp.jpg)
+![images gfp](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/images_gfp.jpg)
