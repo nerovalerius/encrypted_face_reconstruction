@@ -22,4 +22,3 @@ You can also find the generated faces and trained models here: [LINK](https://dr
 ![images gfp](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/images_gfp.jpg)
 ![results ugatit](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/results_ugatit.jpg)
 ![images ugatit](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/images_ugatit.jpg)
-![results final](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/git_images/results_final.jpg)
