@@ -11,6 +11,7 @@ We used the following models:
 
 
 Please read the full Presentation: [LINK](https://github.com/nerovalerius/encrypted_face_reconstruction/blob/main/Encrypted%20Face%20Reconstruction.pdf)
+
 You can also find the generated faces and trained models here: [LINK](https://drive.google.com/file/d/1dzlLu85j5mnJBERdMIEkPsnwHV4suRiM/view?usp=sharing)
 
 ### Our results:
